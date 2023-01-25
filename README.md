@@ -2,7 +2,7 @@
 
 - Hakkımda anlatılacak çok bir şey yok.
 
-- Discord üzerinden [posE](https://discord.gg/9FtTjEQrCD) sunucuma gelmek istersen link bırakayım dedim.
+- Discord üzerinden [Wave](https://discord.gg/SF2jkZxrBv) sunucuma gelmek istersen link bırakayım dedim.
 
 <h3>Sosyal medya hesaplarım!</h3>
 
