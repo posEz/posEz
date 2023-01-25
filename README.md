@@ -13,5 +13,5 @@
 [![Discord Badge](https://img.shields.io/badge/Twitter%20-1DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/suleywman)
    
    <h3><img src="https://cdn.discordapp.com/emojis/657942852818436106.webp?size=96" width="30px"> Profilim</h3>
-   [![Discord Presence](https://lanyard.cnrad.dev/api/930212876155752488)](https://discord.com/users/930212876155752488)
+   [Discord Presence](https://lanyard.cnrad.dev/api/930212876155752488)](https://discord.com/users/930212876155752488)
  
