@@ -14,6 +14,6 @@
    
    <h3><img src="https://cdn.discordapp.com/emojis/657942852818436106.webp?size=96" width="30px"> Profilim</h3>
    <a href="https://discord.com/users/930212876155752488" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/930212876155752488">
+      <img src="https://lanyard.cnrad.dev/api/930212876155752488">
    </a>
 </div>
