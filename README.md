@@ -3,8 +3,8 @@
 ## Hello! <img src="https://cdn.discordapp.com/emojis/730513541961875466.gif?size=96" width="30px">
 
 - Ben [posE](https://discord.com/users/930212876155752488), yazılım ile ilgileniyorum.
-- Yaklaşık 2 yıldır discord üzerinden bot geliştiriyorum.
-- My Discord [Bot](https://discord.com/oauth2/authorize?client_id=1042127077039669338&permissions=8&scope=bot).
+- Yaklaşık 2 yıldır Visual Studio Code üzerinden bot geliştiriyorum.
+- Discord botum [Wave](https://discord.com/oauth2/authorize?client_id=1042127077039669338&permissions=8&scope=bot).
 
 <h3><img src="https://cdn.discordapp.com/emojis/663699720257929236.webp?size=96&quality=lossless" width="30px"> My social media accounts!</h3>
 
