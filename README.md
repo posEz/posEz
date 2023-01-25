@@ -12,8 +12,8 @@
 [![Discord Badge](https://img.shields.io/badge/Instagram%20-8a3ab9.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/guvendahmer/)
 [![Discord Badge](https://img.shields.io/badge/Twitter%20-1DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/suleywman)
    
-   <h3><img src="https://cdn.discordapp.com/emojis/657942852818436106.webp?size=96" width="30px"> Profile</h3>
+   <h3><img src="https://cdn.discordapp.com/emojis/657942852818436106.webp?size=96" width="30px"> Profilim</h3>
    <a href="https://discord.com/users/930212876155752488" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/512316280129323022">
+      <img src="https://lanyard-profile-readme.vercel.app/api/930212876155752488">
    </a>
 </div>
