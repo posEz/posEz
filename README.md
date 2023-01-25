@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sTheHunter&label=Profile%20views&color=ce3b56&style=flat" alt="Suleywman" /> </p>
 
-## Hello! <img src="https://cdn.discordapp.com/emojis/730513541961875466.gif?size=96" width="30px">
+## Merhaba! <img src="https://cdn.discordapp.com/emojis/730513541961875466.gif?size=96" width="30px">
 
 - Ben [posE](https://discord.com/users/930212876155752488), yazılım ile ilgileniyorum.
 - Yaklaşık 2 yıldır Visual Studio Code üzerinden bot geliştiriyorum.
