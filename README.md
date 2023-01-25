@@ -1,4 +1,4 @@
-## Merhaba! <img src="https://cdn.discordapp.com/emojis/863413703235469322.gif?size=48" width="30px">
+## Merhaba! <img src="https://cdn.discordapp.com/emojis/1050910625401942096.gif?size=128" width="30px">
 
 - Hakkımda anlatılacak çok bir şey yok.
 
