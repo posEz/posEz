@@ -10,7 +10,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/930212876155752488)
 [![Discord Badge](https://img.shields.io/badge/Instagram%20-8a3ab9.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/guvendahmer/)
-[![Discord Badge](https://img.shields.io/badge/Twitter%20-1DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)]()
+[![Discord Badge](https://cdn.discordapp.com/emojis/1075414048134397952.webp?)]()
    
   <h3><img src="https://cdn.discordapp.com/emojis/657942852818436106.webp?size=96" width="30px"> Profilim</h3>
    <a href="https://discord.com/users/930212876155752488" target="_blank">
