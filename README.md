@@ -8,7 +8,7 @@
 
 <h3><img src="https://cdn.discordapp.com/emojis/663699720257929236.webp?size=96&quality=lossless" width="30px"> Benim sosyal medya hesaplarım!</h3>
 
-[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/930212876155752488)
+[![Discord Badge](https://cdn.discordapp.com/emojis/1075402805579370588.webp?)](https://discord.com/users/930212876155752488)
 [![Discord Badge](https://cdn.discordapp.com/emojis/1075402819353448469.webp?)](https://www.instagram.com/guvendahmer/)
 [![Discord Badge](https://cdn.discordapp.com/emojis/1075414048134397952.webp?)]()
    
